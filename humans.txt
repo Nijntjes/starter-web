@@ -5,10 +5,12 @@
 
     <name> -- <role> -- <twitter>
 	Nijn Nijntje nijn.nijntje@gmail.com
+	
 
 # THANKS
 
     <name>
+	Thanks to my bunnies
 
 # TECHNOLOGY COLOPHON
 
