@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Nijn Nijntje nijn.nijntje@gmail.com
 
 # THANKS
 
