@@ -12,5 +12,8 @@ Sample website with plenty of files for demos and fun
 
 ## Deployment
 
+Miep miep miep
+
 ## How To Contribute
+
 Alweer een change, pech
