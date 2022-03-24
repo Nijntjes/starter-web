@@ -12,7 +12,7 @@ Sample website with plenty of files for demos and fun
 
 ## Deployment
 
-Miep miep miep, copyright naar een konijn
+Miep miep miep, copyright naar een konijn en konijn
 
 ## How To Contribute
 
